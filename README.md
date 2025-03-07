@@ -7,4 +7,4 @@ Com experiência prática em desenvolvimento fullstack, tenho trabalhado com div
 - 💡Estou sempre aberto a novas oportunidades, colaborações e trocas de conhecimento. Vamos conectar e construir um futuro digital mais seguro e eficiente juntos!
 
  ![image](https://github.com/user-attachments/assets/2585502d-1649-4355-9da3-a429948b679a)
-
+![image]![image](https://github.com/user-attachments/assets/8917dcef-fd4a-4e17-b0fe-4f26c75adf02)

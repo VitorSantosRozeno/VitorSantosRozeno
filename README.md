@@ -5,9 +5,4 @@ Com experiência prática em desenvolvimento fullstack, tenho trabalhado com div
 - 📫 How to reach me ... always studying at night, so its difficult, but try my personal e-mail vitorsantosrozeno@gmail.com
 - 😄 Pronouns: He/him
 - 💡Estou sempre aberto a novas oportunidades, colaborações e trocas de conhecimento. Vamos conectar e construir um futuro digital mais seguro e eficiente juntos!
-
-
-<!---
-VitorSantosRozeno/VitorSantosRozeno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/other/showdown/25.gif

@@ -5,5 +5,7 @@ Com experiência prática em desenvolvimento fullstack, tenho trabalhado com div
 - 📫 How to reach me ... always studying at night, so its difficult, but try my personal e-mail vitorsantosrozeno@gmail.com
 - 😄 Pronouns: He/him
 - 💡Estou sempre aberto a novas oportunidades, colaborações e trocas de conhecimento. Vamos conectar e construir um futuro digital mais seguro e eficiente juntos!
+
 ![image](https://github.com/user-attachments/assets/2585502d-1649-4355-9da3-a429948b679a)
+          ![image](https://github.com/user-attachments/assets/4519e8fb-5b00-4283-b58b-1ec3f67302f4)
 

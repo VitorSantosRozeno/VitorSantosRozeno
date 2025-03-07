@@ -4,9 +4,9 @@
 - 👀💥Sou um estudante da tecnologia com foco em cibersegurança/defesa cibernetica e desenvolvimento fullstack. <br>
 - 🌐Tenho trabalhado com diversas tecnologias para criar aplicações robustas e escaláveis, sempre com um olhar atento à segurança da informação. Meu objetivo é unir essas duas áreas para desenvolver soluções que não apenas atendam às necessidades dos usuários, mas também garantam a integridade e a confidencialidade dos dados.<br>
 - 💡Estou sempre aberto a novas oportunidades, colaborações e trocas de conhecimento. Vamos conectar e construir um futuro digital mais seguro e eficiente juntos!<br>
+ <div>
  <a href="https://github.com/VitorSantosRozeno">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSantosRozeno&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorSantosRozeno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSantosRozeno&layout=compact&langs_count=7&theme=dracula"/><img height="150em" src="https://github-readme-stats.vercel.app/api?username=VitorSantosRozeno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <h1>Estou aprendendo:</h1>
 <div>
@@ -24,8 +24,6 @@
 Cibersegurança: 3/5 semestres.<br>
 Defesa Cibernetica: 2/5 semestres.<br>
 Sistemas de Informação: 1/8 semestres.
-
-
 <h1>Contatos:</h1>  
 <div>
  <a href="https://www.linkedin.com/in/vitorrozeno/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="48" height="48"/></a><a href="mailto:vitorsantosrozeno@gmail.com" target="_blank"><img src="https://img.icons8.com/?size=100&id=EgRndDDLh8kS&format=png&color=000000" width="48" height="48"/></a>
